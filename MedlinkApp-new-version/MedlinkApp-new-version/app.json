@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "MedLink",
+    "displayName": "MedLink",
+    "slug": "MedLink",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/MediHelp.png",
+    "scheme": "MedLink",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/MediHelp.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.wassimda.MedLink"
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/images/logo.png"
+    },
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/logo.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "2bc47575-782f-4934-a032-f25cbdca3c0e"
+      }
+    },
+    "owner": "wassimda"
+  }
+}
