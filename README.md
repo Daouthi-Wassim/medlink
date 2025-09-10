@@ -23,7 +23,11 @@ MedlinkApp est une application mobile complète de santé qui connecte les patie
 - 🗓️ Gestion des disponibilités et rendez-vous
 - 📍 Géolocalisation et zone d'exercice
 - 💳 Gestion des paiements et facturations
-
+### Pour l'Admin
+- 📊 Tableau de bord de gestion des etulisateur
+- 💳 Gestion des paiements et facturations
+- controle totale de l'application.
+- visualiser les feedback et les reclamations.
 ## 🛠 Technologies
 
 - React Native
