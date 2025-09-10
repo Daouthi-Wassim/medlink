@@ -89,13 +89,12 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ## quelque interfaces 
 
 <img width="430" height="932" alt="Onboarding Screen 03" src="https://github.com/user-attachments/assets/2b4884b9-da60-467f-b93f-16fafdcbbabe" />
-<img width="430" height="932" alt="Home" src="https://github.com/user-attachments/assets/bd38b12b-9cdc-41b6-9d9e-f1858a59b97a" />
+
 
 <img width="430" height="932" alt="Doctor Profile" src="https://github.com/user-attachments/assets/9aaa1763-664d-458f-8d41-f9a41a2507d4" />
 <img width="430" height="932" alt="Chat-1" src="https://github.com/user-attachments/assets/b00cdd36-839d-46df-bda1-f633777b280c" />
 <img width="430" height="932" alt="Chat" src="https://github.com/user-attachments/assets/684f40c1-21f9-43e7-b100-41a215d95f5b" />
 <img width="430" height="932" alt="Booking Success" src="https://github.com/user-attachments/assets/6e354fc5-de78-4d7e-a0fc-c5441b008416" /><img width="430" height="932" alt="Settings" src="https://github.com/user-attachments/assets/29d9a24a-a57d-42ff-9cc4-78e33569b88a" />!<img width="430" height="932" alt="Voice Call" src="https://github.com/user-attachments/assets/a8aca126-00bc-44dd-a0f7-1b022eb0886a" />
-<img width="430" height="932" alt="User Profile" src="https://github.com/user-attachments/assets/da6d3167-4fb8-40e0-8a9f-b0fb0ee6110b" />
 
 
 <img width="430" height="932" alt="Starting page" src="https://github.com/user-attachments/assets/dc7ef483-a1aa-4f7a-9deb-6b43c29e31e2" /><img width="430" height="932" alt="SignUp" src="https://github.com/user-attachments/assets/e8d1ef63-d88d-459f-bcf8-86b5678bf3e1" /><img width="430" height="932" alt="Settings - Dark Mode" src="https://github.com/user-attachments/assets/cbcc2976-d864-4255-8c8b-54a280258dba" /><img width="430" height="932" alt="Payment Gateway " src="https://github.com/user-attachments/assets/9899ee2a-394e-4096-a151-aba854568a22" /># 🏥 MedlinkApp - Application Mobile de Santé Connectée
