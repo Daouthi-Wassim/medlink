@@ -1,6 +1,4 @@
-/**
- * Colors matching the Figma design
- */
+
 
 const primaryColor = '#0A7EA4';
 const secondaryColor = '#4CAF50';
@@ -27,7 +25,6 @@ export const Colors = {
     warning: '#FF9800',
     error: '#F44336',
     info: '#2196F3',
-    // Specific colors from Figma
     blue: {
       50: '#E8F4F8',
       100: '#D1E9F1',
